@@ -123,4 +123,13 @@ Report:
 
 
 
+<<<<<<< HEAD
 hey it is the guy from Arizona - I made a super commit !
+=======
+hey it is the guy from Arizona - I made a super commit !
+
+
+#####
+>>>>>>> 254ab3d42348095f2d0607b10216cd29f198b230
+
+there is a thing which is new
